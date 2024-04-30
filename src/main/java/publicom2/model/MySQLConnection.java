@@ -16,7 +16,6 @@ import java.util.logging.Logger;
  */
 public class MySQLConnection {
     
-    //private static final String url = "jdbc:mysql://localhost:3306/mlr_publicom";
     private static final String url = "jdbc:mysql://172.28.36.9/publicom2";
     private static final String user = "clientlourdPublicom";
     private static final String pass = "clientlourd";
